@@ -11,8 +11,7 @@
 
 - 📫 You can contact me at **bussasaiabhiram@gmail.com**
 
-- ⚡ Fun fact - **Gaming Enthusiast: loves to play different kinds of games.Loves travelling and exploring new places and Movie enthusiast who can talk film plots as passionately as most talk algorithms!
-**
+- ⚡ Fun fact - **Gaming Enthusiast: loves to play different kinds of games.Loves travelling and exploring new places and Movie enthusiast who can talk film plots as passionately as most talk algorithms!**
 
 
 ## 🌐 Socials:
