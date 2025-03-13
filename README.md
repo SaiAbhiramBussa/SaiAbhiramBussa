@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://github.com/user-attachments/assets/d9d99bf8-228b-42e8-8e66-9f05835c96c9">
 
-- 🌱 I’m currently learning **Full Stack Development and Data Analyst**
+- 🌱 I’m currently learning **Full Stack Development and Data Analysis**
 
 - 👯 I’m looking to collaborate on **Data Analyst, Full Stack and AI/ML Projects**
 
@@ -15,7 +15,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-abhiram-bussa-204722246) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]([https://x.com/Abhiram2k03](https://x.com/bussasaiabhiram))  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sai_abhiram_bussa/)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/abhiop69) [!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-abhiram-bussa-204722246) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]([https://x.com/Abhiram2k03](https://x.com/bussasaiabhiram))  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sai_abhiram_bussa/)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/abhiop69)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
