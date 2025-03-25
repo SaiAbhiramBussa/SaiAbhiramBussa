@@ -5,13 +5,13 @@
 
 <img align="right" alt="Coding" width="350" src="https://github.com/user-attachments/assets/d9d99bf8-228b-42e8-8e66-9f05835c96c9">
 
-- 🌱 I’m currently learning **Full Stack Development and Data Analysis**
+- 🌱 I’m currently learning **Full Stack Development and Data Science**
 
-- 👯 I’m looking to collaborate on **Data Analyst, Full Stack and AI/ML Projects**
+- 👯 I’m looking to collaborate on **Data Science, Full Stack and AI/ML Projects**
 
 - 📫 You can contact me at **bussasaiabhiram@gmail.com**
 
-- ⚡ Fun fact - **Gaming Enthusiast: loves to play different kinds of games.Loves travelling and exploring new places and Movie enthusiast who can talk film plots as passionately as most talk algorithms!**
+- ⚡ Fun fact - **Gaming Enthusiast: loves to play different kinds of games.Loves travelling and exploring new places and a Movie enthusiast.**
 
 
 ## 🌐 Socials:
