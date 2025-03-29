@@ -88,20 +88,9 @@
 </p>
 
 
-  ```html
-  <a href="https://saiabhirambussa.pythonanywhere.com/link">
-    <img
-      src="https://saiabhirambussa.pythonanywhere.com"
-      alt="Current Spotify Song"
-    />
-  </a>
-  ```
+  
+ 
 
-```
-?spin=true&scan=true&eq_color=rainbow&theme=dark
-```
-
-![Preview](https://saiabhirambussa.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark)
 
 
 
