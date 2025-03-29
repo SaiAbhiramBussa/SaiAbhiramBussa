@@ -38,6 +38,16 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%230072C6.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 
+<h3 align="left">My GitHub Stats:</h3>
+
+<img align="right" alt="Coding" width="450" src="https://github.com/user-attachments/assets/7de2eb95-4aea-455b-abbd-cc9d0c5e8533">
+
+<a align="left" href="https://github.com/saiabhirambussa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiabhirambussa&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+
+<a align="left" href="http://www.github.com/saiabhirambussa"><img src="https://streak-stats.demolab.com?user=saiabhirambussa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/></a>
+
 
 
 
